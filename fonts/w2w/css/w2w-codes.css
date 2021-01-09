@@ -1,0 +1,7 @@
+
+.w2w-calendar:before { content: '\e800'; } /* '' */
+.w2w-cub:before { content: '\e801'; } /* '' */
+.w2w-caret-right:before { content: '\e802'; } /* '' */
+.w2w-caret-left:before { content: '\e803'; } /* '' */
+.w2w-icon-menu:before { content: '\e804'; } /* '' */
+.w2w-header-logo:before { content: '\e805'; } /* '' */
