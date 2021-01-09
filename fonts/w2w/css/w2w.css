@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'w2w';
-  src: url('../font/w2w.eot?54711286');
-  src: url('../font/w2w.eot?54711286#iefix') format('embedded-opentype'),
-       url('../font/w2w.woff2?54711286') format('woff2'),
-       url('../font/w2w.woff?54711286') format('woff'),
-       url('../font/w2w.ttf?54711286') format('truetype'),
-       url('../font/w2w.svg?54711286#w2w') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/low6dev/w2w-assets@master/fonts/w2w/font/w2w.eot?54711286');
+  src: url('https://cdn.jsdelivr.net/gh/low6dev/w2w-assets@master/fonts/w2w/font/w2w.eot?54711286#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/low6dev/w2w-assets@master/fonts/w2w/font/w2w.woff2?54711286') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/low6dev/w2w-assets@master/fonts/w2w/font/w2w.woff?54711286') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/low6dev/w2w-assets@master/fonts/w2w/font/w2w.ttf?54711286') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/low6dev/w2w-assets@master/fonts/w2w/font/w2w.svg?54711286#w2w') format('svg');
   font-weight: normal;
   font-style: normal;
 }
