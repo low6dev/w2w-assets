@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'w2w';
-  src: url('../font/w2w.eot?72719984');
-  src: url('../font/w2w.eot?72719984#iefix') format('embedded-opentype'),
-       url('../font/w2w.svg?72719984#w2w') format('svg');
+  src: url('../font/w2w1.eot?72719984');
+  src: url('../font/w2w1.eot?72719984#iefix') format('embedded-opentype'),
+       url('../font/w2w1.svg?72719984#w2w') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'w2w';
-    src: url('../font/w2w.svg?72719984#w2w') format('svg');
+    src: url('../font/w2w1.svg?72719984#w2w') format('svg');
   }
 }
 */
