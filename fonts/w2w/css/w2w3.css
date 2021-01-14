@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'w2w';
-  src: url('../font/w2w.eot?28681240');
-  src: url('../font/w2w.eot?28681240#iefix') format('embedded-opentype'),
-       url('../font/w2w.woff2?28681240') format('woff2'),
-       url('../font/w2w.woff?28681240') format('woff'),
-       url('../font/w2w.ttf?28681240') format('truetype'),
-       url('../font/w2w.svg?28681240#w2w') format('svg');
+  src: url('../font/w2w3.eot?28681240');
+  src: url('../font/w2w3.eot?28681240#iefix') format('embedded-opentype'),
+       url('../font/w2w3.woff2?28681240') format('woff2'),
+       url('../font/w2w3.woff?28681240') format('woff'),
+       url('../font/w2w3.ttf?28681240') format('truetype'),
+       url('../font/w2w3.svg?28681240#w2w') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'w2w';
-    src: url('../font/w2w.svg?28681240#w2w') format('svg');
+    src: url('../font/w2w3.svg?28681240#w2w') format('svg');
   }
 }
 */
