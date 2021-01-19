@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'w2w';
-  src: url('../font/w2w2.eot?56508372');
-  src: url('../font/w2w2.eot?56508372#iefix') format('embedded-opentype'),
-       url('../font/w2w2.woff2?56508372') format('woff2'),
-       url('../font/w2w2.woff?56508372') format('woff'),
-       url('../font/w2w2.ttf?56508372') format('truetype'),
-       url('../font/w2w2.svg?56508372#w2w') format('svg');
+  src: url('../font/w2w10.eot?56508372');
+  src: url('../font/w2w10.eot?56508372#iefix') format('embedded-opentype'),
+       url('../font/w2w10.woff2?56508372') format('woff2'),
+       url('../font/w2w10.woff?56508372') format('woff'),
+       url('../font/w2w10.ttf?56508372') format('truetype'),
+       url('../font/w2w10.svg?56508372#w2w') format('svg');
   font-weight: normal;
   font-style: normal;
 }
